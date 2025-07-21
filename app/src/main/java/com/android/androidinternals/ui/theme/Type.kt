@@ -1,4 +1,4 @@
-package com.android.internals.emptyapp.ui.theme
+package com.android.androidinternals.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

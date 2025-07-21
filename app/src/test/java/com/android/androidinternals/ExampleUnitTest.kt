@@ -1,4 +1,4 @@
-package com.android.internals.emptyapp
+package com.android.androidinternals
 
 import org.junit.Test
 

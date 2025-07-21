@@ -1,4 +1,4 @@
-package com.android.internals.emptyapp.ui.theme
+package com.android.androidinternals.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun EmptyAppTheme(
+fun MyAppTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
