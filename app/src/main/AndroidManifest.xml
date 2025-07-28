@@ -23,6 +23,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <provider
+            android:authorities="com.android.androidinternals.provider"
+            android:name="com.android.androidinternals.provider.ContactProvider"
+            android:exported="false">
+        </provider>
     </application>
 
 </manifest>
